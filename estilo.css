@@ -43,6 +43,14 @@
     color: white;
 }
 
+#date img {
+    max-width:100%;
+}
+
+#date {
+    background-color: #343a40;
+    color: white;
+}
 
 #footer {
     padding: 1em 0;
